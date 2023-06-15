@@ -1,4 +1,3 @@
-# arithmetic_arranger
 # Project Description
 
 ### Assignment
